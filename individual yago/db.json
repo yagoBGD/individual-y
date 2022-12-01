@@ -1,0 +1,188 @@
+{
+  "Carros": [
+    {
+      "id": 1,
+      "modelo": "Civic",
+      "ano": "2022",
+      "montadora": "Honda"
+    },
+    {
+      "id": 2,
+      "modelo": "UP!",
+      "ano": "2021",
+      "montadora": "Volkswagem"
+    },
+    {
+      "id": 3,
+      "name": "CROSS UP!",
+      "ano": "2021",
+      "montadora": "Volkswagem"
+    },
+    {
+      "id": 4,
+      "modelo": "Nivus",
+      "ano": "2021",
+      "montadora": "Volkswagem"
+    },
+    {
+      "id": 5,
+      "modelo": "Virtus",
+      "ano": "2021",
+      "montadora": "Volkswagem"
+    },
+    {
+      "id": 6,
+      "modelo": "T-cross",
+      "ano": "2022",
+      "montadora": "Volkswagem"
+    },
+    {
+      "id": 7,
+      "modelo": "Sandero",
+      "ano": "2021",
+      "montadora": "Renault"
+    },
+    {
+      "id": 8,
+      "modelo": "City",
+      "ano": "2022",
+      "montadora": "Honda"
+    },
+    {
+      "id": 9,
+      "modelo": "Etios Sedan",
+      "ano": "2021",
+      "montadora": "Toyata"
+    },
+    {
+      "id": 10,
+      "modelo": "Fox",
+      "ano": "2020",
+      "montadora": "Volkswagem"
+    },
+    {
+      "id": 11,
+      "modelo": "Polo",
+      "ano": "2021",
+      "montadora": "Volkswagem"
+    },
+    {
+      "id": 12,
+      "modelo": "CrossFox",
+      "ano": "2020",
+      "marca": "Volkswagem"
+    },
+    {
+      "id": 13,
+      "modelo": "Prisma Joy",
+      "ano": "2021",
+      "marca": "Chevrolet"
+    },
+    {
+      "id": 14,
+      "modelo": "Onix Joy",
+      "ano": "2021",
+      "montadora": "Chevrolet"
+    },
+    {
+      "id": 15,
+      "modelo": "Spacefox",
+      "ano": "2020",
+      "montadora": "Volkswagem"
+    },
+    {
+      "id": 16,
+      "modelo": "C3 Hatch",
+      "ano": "2021",
+      "montadora": "Citroen"
+    },
+    {
+      "id": 17,
+      "modelo": "Voyage",
+      "ano": "2022",
+      "montadora": "Volkswagem"
+    },
+    {
+      "id": 18,
+      "modelo": "Cobalt (Facelift)",
+      "ano": "2021",
+      "montadora": "Chevrolet"
+    },
+    {
+      "id": 19,
+      "modelo": "Cerato Koup",
+      "ano": "2021",
+      "montadora": "Kia"
+    },
+    {
+      "id": 20,
+      "modelo": "A4",
+      "ano": "2021",
+      "montadora": "Audi"
+    },
+    {
+      "id": 21,
+      "modelo": "X1",
+      "ano": "2022",
+      "montadora": "BMW"
+    },
+    {
+      "id": 22,
+      "modelo": "X6",
+      "ano": "2022",
+      "montadora": "BMW"
+    },
+    {
+      "id": 23,
+      "modelo": "208",
+      "ano": "2021",
+      "montadora": "Peugeot"
+    },
+    {
+      "id": 24,
+      "modelo": "Ecosport",
+      "ano": "2021",
+      "montadora": "Ford"
+    }
+  ],
+  "Lojas": [
+    {
+      "id": 1,
+      "name": "Impactual Veículos"
+    },
+    {
+      "id": 2,
+      "name": "Estilo Cars"
+    },
+    {
+      "id": 3,
+      "name": "Autoritária Veículos"
+    },
+    {
+      "id": 4,
+      "name": "Elite Cars"
+    }
+  ],
+  "Endereços": [
+    {
+      "id": 1,
+      "name": "Impactual Veículos",
+      "Local": "Rua Baubá de Souza, Nº 330 - Irajá"
+    },
+    {
+      "id": 2,
+      "name": "Estilo Cars",
+      "Local": "Rua Grajante do Sul, Nº 789 - Bangu"
+    },
+    {
+      "id": 3,
+      "name": "Autoritária Veículos",
+      "Local": "Rua José Vicente de Moraes, Nº 244 - Realengo"
+    },
+    {
+      "id": 4,
+      "name": "Elite Cars",
+      "Local": "Rua Ubatuba, Nº 556 - Villar dos Teles"
+    }
+  ]
+}
